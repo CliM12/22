@@ -1,0 +1,8 @@
+変化点取込み版画面のＵＲＬは以下となりますので、
+ご認識のほど、お願いいたします。
+
+（従来のＡＳＩＳ→ＭＤＣベース版）
+https://misumigroupinc-dev.outsystemsenterprise.com/Newton_Mocks/
+
+（変化点取込み版）
+https://misumigroupinc-dev.outsystemsenterprise.com/Newton_Mocks_ToBe/
